@@ -6,7 +6,7 @@ import openai
 from dotenv import load_dotenv, find_dotenv
 
 _ = load_dotenv(find_dotenv())
-openai.api_key  = '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'
+openai.api_key  = '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'
 # print(openai.api_key)
 
 
